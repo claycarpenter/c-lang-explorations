@@ -1,0 +1,7 @@
+version: '3'
+services:
+  linux:
+    build: .
+    volumes:
+     - ./src:/sandbox/src
+     # - ./bin:/sandbox/bin
