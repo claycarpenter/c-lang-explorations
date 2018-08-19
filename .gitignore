@@ -1,2 +1,8 @@
+
+# Ignore everything that doesn't have an extension
+*
+!/**/
+!*.*
+
 # Ignore executables
 *.out
