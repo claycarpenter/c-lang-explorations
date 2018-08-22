@@ -3,6 +3,7 @@
 *
 !/**/
 !*.*
+!Dockerfile
 
 # Ignore executables
 *.out
