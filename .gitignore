@@ -4,6 +4,7 @@
 !/**/
 !*.*
 !Dockerfile
+!Makefile
 
 # Ignore executables
 *.out
