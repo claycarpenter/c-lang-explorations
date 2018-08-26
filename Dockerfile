@@ -9,6 +9,7 @@ RUN apt-get update && apt-get install -y \
     glibc-doc \
     gcc \
     gdb \
+    valgrind \
     make \
     nasm \
     vim \
