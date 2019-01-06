@@ -14,13 +14,13 @@ Making the loader program:
 
 ```
 # make the loader program
-$ cc -Wall -g -DNDEBUG ex29.c -ldl -o ex29
+$ cc -Wall -g -DNDEBUG -ldl ex29.c -o ex29
 ```
 
 On Ubuntu, use this arguments order:
 
 ```
-cc -Wall -g -DNDEBUG ex29.c -ldl -o ex29
+$ cc -Wall -g -DNDEBUG ex29.c -ldl -o ex29
 ```
 
 ## Testing
