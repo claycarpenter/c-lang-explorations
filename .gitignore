@@ -8,3 +8,5 @@
 
 # Ignore executables
 *.out
+*.o
+*.so
